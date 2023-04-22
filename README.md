@@ -6,6 +6,8 @@ Project Title: Apple Sales Report Analysis
 
 LinkedIn:https://www.linkedin.com/in/richard-frimpong-174a85271
 
+Email Address:richardfrimpongalx@gmail.com
+
 The tool used: Microsoft Excel
 
 Datasets Source: Quantum Analytics NG
