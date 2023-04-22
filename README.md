@@ -13,6 +13,7 @@ The tool used: Microsoft Excel
 Datasets Source: Quantum Analytics NG
 
 Data Visualization Summary
+
 Product By Revenue
 
 First of all, it's important to note that the chart displays the total revenue made by Apple from selling each of the five products annually, and the revenue figures are given in US dollars. Looking at the chart, we can see that the product with the highest revenue is the MacBook, which has generated $10,548,938 annually. This is followed by the iPhone with $8,710,623 in revenue, and then the AirPods with $7,702,731. The iPad comes in fourth with $5,623,730, and the iWatch has generated the lowest revenue at $3,531,828.One thing to note is that the revenue figures vary widely between the different products. The MacBook generates more than three times the revenue of the iWatch, for example. This is likely due to a combination of factors, such as differences in pricing, market demand, and the features and capabilities of each product.
@@ -28,6 +29,7 @@ Looking at the chart, we can see that there are several peaks and valleys in the
 In August, there was a significant increase in expenditures to $1,925,399, which represents the highest expenditure figure in the entire year. Expenditure then gradually decreased over the following months, with a slight uptick in October to $1,472,849 before dropping back down to $1,146,583 in November and $296,403 in December.
 
 Revenue By Sales Method
+
 Looking at the chart, we can see that the largest share of Apple's revenue comes from sales through third-party channels, which account for 29.16% of the total revenue. In-store sales account for the second largest share at 31.16%, followed by online store sales at 26.90% and referral sales at 12.78%.
 
 
